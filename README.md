@@ -1,12 +1,6 @@
 # TrustShield 360
 *AI-Powered Fraud Protection for Web Applications & Walmart Sparkathon 2025*
 
-[![Security](https://img.shields.io/badge/Security-Quantum%20Resistant-blue)](https://github.com/walmart/trustshield360)
-[![AI Models](https://img.shields.io/badge/AI-3%20Models-green)](https://github.com/walmart/trustshield360)
-[![Blockchain](https://img.shields.io/badge/Blockchain-Enabled-orange)](https://github.com/walmart/trustshield360)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/walmart/trustshield360)
-[![Web APIs](https://img.shields.io/badge/Web-APIs%20Ready-purple)](https://github.com/walmart/trustshield360)
-
 > **"Where Security Meets Innovation"** - Next-generation fraud detection combining AI, quantum cryptography, and blockchain technology with full web integration support.
 
 ## Web Project Integration
